@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pantheofex
+- 👀 I’m interested in C++ and Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me    Discord: fontem Draconis#4261
